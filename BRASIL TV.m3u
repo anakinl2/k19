@@ -1,0 +1,108 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://4.bp.blogspot.com/-FeAtBF1AIPM/WPuXKlmQ8fI/AAAAAAAAEw0/KfQJt4NibVw3dpK2XwM1dDUXnNCP_8LEgCLcB/s200/em3.jpg" pltv-name="LISTALEX" pltv-description="XXX DESCRIÇÃO DA LISTA XXX" pltv-cover="XXX CAPA DA LISTA XXX" pltv-author="XXX AUTOR DA LISTA XXX" pltv-site="XXX SITE CASO HOUVER XXX" pltv-email="XXX E-MAIL XXX"
+
+
+################## ABERTOS ########################
+
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="Globo SP FHD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo SP FHD
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/7183
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="Globo SP HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo SP HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globosphd_3a69aa1b_e936c277f60c186a70d8ac211110f644a3b95eef/playlist.m3u8
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="Globo SP HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo SP HD [Alter]
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/7379
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="Globo RJ FHD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo RJ FHD
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/7184
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="Globo RJ HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo RJ HD
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/2277
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="Globo RJ HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo RJ HD [Alter 2]
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/13428
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste SD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Nordeste SD [Alter 2]
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/13742
+#EXTINF:-1 tvg-id="Record" tvg-name="Record SD" tvg-logo="http://logocanais.ddns.net/Logo/Record1.png" group-title="Canais: Abertos",Record SD
+http://edge.aovivo.club/hls/s:45.32.217.66/record_3554dce5_c7ada1bd2716089fa7e416e1f2cf0c720c21dbb8/410p/chunklist.m3u8
+#EXTINF:-1 tvg-id="Record" tvg-name="Record HD" tvg-logo="http://logocanais.ddns.net/Logo/Record1.png" group-title="Canais: Abertos",Record HD
+http://www.tv-msn.com/master.mp4
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT SD SP" tvg-logo="http://logocanais.ddns.net/Logo/SBT1.png" group-title="Canais: Abertos",SBT SD SP
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/2197
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD SP [ALTER]" tvg-logo="http://logocanais.ddns.net/Logo/SBT1.png" group-title="Canais: Abertos",SBT HD SP [ALTER]
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/2197
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT SD PE" tvg-logo="http://logocanais.ddns.net/Logo/SBT1.png" group-title="Canais: Abertos",SBT SD PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+#EXTINF:-1 tvg-id="Rede TV HD" tvg-name="Rede TV HD" tvg-logo="http://logocanais.ddns.net/Logo/RedeTv1.png" group-title="Canais: Abertos",Rede TV HD
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/2202
+#EXTINF:-1 tvg-id="Rede TV HD" tvg-name="Rede TV HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/RedeTv1.png" group-title="Canais: Abertos",Rede TV HD [Alter]
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/7289
+TINF:-1 tvg-id="Band" tvg-name="Band FHD" tvg-logo="http://logocanais.ddns.net/Logo/Band.png" group-title="Canais: Abertos",Band FHD
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/7188
+#EXTINF:-1 tvg-id="Band HD" tvg-name="Band HD" tvg-logo="http://logocanais.ddns.net/Logo/Band.png" group-title="Canais: Abertos",Band HD
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/2334
+#EXTINF:-1 tvg-id="Band HD [Alter]" tvg-name="Band HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Band.png" group-title="Canais: Abertos",Band HD [Alter]
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/7483
+#EXTINF:-1 tvg-id="Band HD" tvg-name="Band HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/Band.png" group-title="Canais: Abertos",Band HD [Alter 2]
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/13700
+#EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV CULTURA HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/22569837b28e1133dd753408311d14ef.jpg" group-title="Canais: Abertos",TV CULTURA
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/13700
+#EXTINF:-1 tvg-id="TV FUTURA" tvg-name="TV FUTURA SD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/futura-100x100.png" group-title="Canais: Abertos",TV FULTURA SD
+http://caikron.com.br:1935/unipar/tvup/chunklist_w1328192248.m3u8
+
+
+################## FILMES/SERIES ########################
+
+#EXTM3U
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/ae.png" group-title="Canais: Filmes e Series",A&E HD
+http://63.143.44.131:22559/live/pt_PwsKRjIegyASUaYBiH3ou5LT_480p.ts?user_id=19274956&dev_id=f2559aaa473e7098d2ed6d7b407f1e17&trans_id=3WjaYGjLoNcO_C1ggSN3hVoo8&dead_time=1581396013&app_id=com.mobile.brasiltvmobile&host=63.143.44.131:22559&app_ver=21203&client_ip=177.47.227.212&auth_id=19274956m&dev_limit=1&token=3ad4eff9b5f84c864489ff9f2f4c9918
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/amc.png" group-title="Canais: Filmes e Series",AMC HD
+http://63.143.44.131:22559/live/pt_xRBGDPf12puWsC8kV6FAETNH_480p.ts?user_id=19274956&dev_id=f2559aaa473e7098d2ed6d7b407f1e17&trans_id=3WjaYGjLoNcO_blY691UCURn1&dead_time=1581396013&app_id=com.mobile.brasiltvmobile&host=63.143.44.131:22559&app_ver=21203&client_ip=177.47.227.212&auth_id=19274956m&token=ef5055d70db216ea4c0ba1595fe9eac7
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/axn.png" group-title="Canais: Filmes e Series",AXN HD
+http://63.143.44.131:22559/live/pt_OHAJwrM6poGAZu6Uj_480p.ts?user_id=19274956&dev_id=f2559aaa473e7098d2ed6d7b407f1e17&trans_id=dhIA1W2vPp7E_tPEGwM4TD7D&dead_time=1581397919&app_id=com.mobile.brasiltvmobile&host=63.143.44.131:22559&app_ver=21203&client_ip=177.47.227.212&auth_id=19274956m&dev_limit=1&token=be8ea36503c6d544e668b7b5f5941f1f
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/comedycentral.png" group-title="Canais: Variedades e Músicas",Comedy Central HD
+http://63.143.44.131:22559/live/pt_XypHPFmzuIfLK41oZNncQelA_480p.ts?user_id=19274956&dev_id=f2559aaa473e7098d2ed6d7b407f1e17&trans_id=7bWqyLxhjyI_RG5oEU0NVRyk&dead_time=1581398213&app_id=com.mobile.brasiltvmobile&host=63.143.44.131:22559&app_ver=21203&client_ip=177.47.227.212&auth_id=19274956m&dev_limit=1&token=6fff4d05f7a5bfd4ae1a82d954785fd9
+#EXTM3U
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fox.png" group-title="Canais: Filmes e Series",FOX HD
+http://63.143.44.131:22559/live/pt_B7hFXSnaqw2EJk3Ic6pPyi5Y_480p.ts?user_id=19274956&dev_id=f2559aaa473e7098d2ed6d7b407f1e17&trans_id=7bWqyLxhjyI_AxV1lzOm1K5l&dead_time=1581398213&app_id=com.mobile.brasiltvmobile&host=63.143.44.131:22559&app_ver=21203&client_ip=177.47.227.212&auth_id=19274956m&token=dde0306514a225918770e5055a73d3a6
+#EXTM3U
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fx.png" group-title="Canais: Filmes e Series",FX HD
+http://63.143.44.131:22559/live/pt_iXSj9zHqmOdwcYFuCLTb0MNK_480p.ts?user_id=19274956&dev_id=f2559aaa473e7098d2ed6d7b407f1e17&trans_id=7bWqyLxhjyI_Aqf1Or0OG77x&dead_time=1581398213&app_id=com.mobile.brasiltvmobile&host=63.143.44.131:22559&app_ver=21203&client_ip=177.47.227.212&auth_id=19274956m&token=ba91108927b4c31d8b38378e75ba7b1f
+#EXTM3U
+#EXTINF:-1 tvg-id="LIFE TIME" tvg-name="LIFE TIME" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/lifetime-100x100.png" group-title="Canais: Filmes e Series",LIFE TIME
+http://63.143.44.131:22559/live/pt_hrRidPDANy3S52Ljmwtx978F_480p.ts?user_id=19274956&dev_id=f2559aaa473e7098d2ed6d7b407f1e17&trans_id=7bWqyLxhjyI_GjT7vmdxNun4&dead_time=1581398213&app_id=com.mobile.brasiltvmobile&host=63.143.44.131:22559&app_ver=21203&client_ip=177.47.227.212&auth_id=19274956m&token=7ed48de474e93652292e5aebee25567b
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/space.png" group-title="Canais: Filmes e Series",Space HD
+http://63.143.44.131:22559/live/pt_ymZnQGTRxLhgzKBYlOekpfso_480p.ts?user_id=19274956&dev_id=f2559aaa473e7098d2ed6d7b407f1e17&trans_id=7bWqyLxhjyI_qJdjyzmKzCcL&dead_time=1581398213&app_id=com.mobile.brasiltvmobile&host=63.143.44.131:22559&app_ver=21203&client_ip=177.47.227.212&auth_id=19274956m&token=d25ca452c467aed56dcd170e797c0737
+#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sony.png" group-title="Canais: Filmes e Series",Sony HD
+http://63.143.44.131:22559/live/pt_kMewqpTKfyYadI1gm05U8cvx_480p.ts?user_id=19274956&dev_id=f2559aaa473e7098d2ed6d7b407f1e17&trans_id=7bWqyLxhjyI_bydBzDcXHKR&dead_time=1581398213&app_id=com.mobile.brasiltvmobile&host=63.143.44.131:22559&app_ver=21203&client_ip=177.47.227.212&auth_id=19274956m&dev_limit=1&token=045f3a7a1c49fd1823d9671011bb3e19
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/studiouniversal.png" group-title="Canais: Filmes e Series",STUDIO UNIVERSAL
+http://63.143.44.131:22559/live/pt_4YAiHGmv6RCqIdET3VzPaKjU_480p.ts?user_id=19274956&dev_id=f2559aaa473e7098d2ed6d7b407f1e17&trans_id=7bWqyLxhjyI_37icvTwfg5I&dead_time=1581398213&app_id=com.mobile.brasiltvmobile&host=63.143.44.131:22559&app_ver=21203&client_ip=177.47.227.212&auth_id=19274956m&token=d60b8f589403ff223ef8da8a64b2da6c
+
+################## NOTICIAS ########################
+
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News FHD" tvg-logo="http://logocanais.ddns.net/Logo/bandnews.png" group-title="Canais: Noticias",Band News FHD
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/7150
+
+################## ESPORTES ########################
+
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="Band Sports HD" tvg-logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="Canais: Esportes",Band Sports HD
+http://orthosie.tvcast.xyz/hls/s:95.216.15.44:81/bandsports_f53eac2e_16f1d78d6a9ef9402856380e8802bc5fdbfc4d7b/playlist.m3u8
+#EXTINF:-1 tvg-id="Band Sports HD [Alter]" tvg-name="Band Sports HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="Canais: Esportes",Band Sports HD [Alter]
+http://eirene.tvcast.xyz/hls/s:95.216.15.44:81/bandsports_f53eac2e_16f1d78d6a9ef9402856380e8802bc5fdbfc4d7b/playlist.m3u8
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate FHD" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes",Combate FHD
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/7187
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes",Combate HD
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/2318
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes",Combate HD [Alter]
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/7463
+#EXTINF:-1 tvg-id="ESPN + HD" tvg-name="ESPN + HD [ALTER]" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN + HD [ALTER]
+http://172.105.148.146/hls/s:95.216.15.44:81/espn_6c1e671f_2c08901d58b66dc81f591c2736ab5a1340d9f572/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN + HD" tvg-name="ESPN + HD" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN + HD
+http://orthosie.tvcast.xyz/hls/s:95.216.15.44:81/espn_6c1e671f_2c08901d58b66dc81f591c2736ab5a1340d9f572/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox Sport SD" tvg-name="Fox Sport SD" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: Esportes",Fox Sport SD
+http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/foxsports_8a1beaee_95b5689dae2ee4e584bd19abbb21660388838deb/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox Sport HD" tvg-name="Fox Sport HD" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: Esportes",Fox Sport HD
+http://orthosie.tvcast.xyz/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_d9ccea412350c6e373dd27e3b7744211573b637f/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX Sports 2 SD" tvg-name="FOX Sports 2 SD" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports2.png" group-title="Canais: Esportes",FOX Sports 2 SD
+http://172.105.149.61/hls/s:95.216.15.44:81/foxsports2_fc8d9e6e_1763837228a67d39d475261ef2f2fb3ebef0f009/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="FOX Sports 2 HD" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports2.png" group-title="Canais: Esportes",FOX Sports 2 HD
+http://assistirpainel.ddns.net:8880/CtGkfIbks5/GbQGmN08iZ/2283
+#EXTINF:-1 tvg-id="Sport TV SD" tvg-name="SporTV SD" tvg-logo="http://logocanais.ddns.net/Logo/Sportv.png" group-title="Canais: Esportes",SporTV SD
+http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/sportv_91dfde1d_fea4eade943a72856f1f01ddbc4e97d4571703bb/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport TV SD" tvg-name="SporTV SD [ALTER]" tvg-logo="http://logocanais.ddns.net/Logo/Sportv.png" group-title="Canais: Esportes",SporTV SD [ALTER]
+http://carpo.tvcast.xyz/hls/s:95.216.15.44:81/sportv_91dfde1d_fea4eade943a72856f1f01ddbc4e97d4571703bb/playlist.m3u8
